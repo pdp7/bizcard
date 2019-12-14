@@ -1,4 +1,4 @@
-17249959580684942
+17267293866470489
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -73814,6 +73814,48 @@ WSON-10-1EP
 0
 15
 11
+afterdark
+OSH_small_copper-mask
+Imported from OSHPARK.svg
+svg2mod
+0
+0
+0
+afterdark
+OSH_small_silk
+Imported from OSHPARK.svg
+svg2mod
+0
+0
+0
+afterdark
+osh-park-text
+Imported from OSHPARK.svg
+svg2mod
+0
+0
+0
+afterdark
+osh-park-text--mask
+Imported from OSHPARK.svg
+svg2mod
+0
+0
+0
+afterdark
+osh-park-text-cu-mask
+Imported from OSHPARK.svg
+svg2mod
+0
+0
+0
+afterdark
+osh-park-text-mask
+Imported from OSHPARK.svg
+svg2mod
+0
+0
+0
 digikey-footprints
 3-SIP_Module_TM1000Q
 
@@ -77062,3 +77104,38 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
+touch
+TestPoint_Pad_4.0x4.0mm
+SMD rectangular pad as test Point, square 4.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+touch
+Touch_Pad_10x10mm
+SMD rectangular pad as test Point, square 4.0mm side length
+touch point SMD pad rectangle square
+0
+1
+1
+touch
+hole30AWG
+
+
+0
+1
+1
+touch
+strain30AWG
+
+
+0
+1
+1
+touch
+touch_10mm
+
+
+0
+0
+0
