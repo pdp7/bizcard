@@ -1,4 +1,4 @@
-17859827483526489
+17861405648477489
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -79388,6 +79388,13 @@ test point SMD pad rectangle square
 1
 touch
 Touch_Pad_10x10mm
+SMD rectangular pad as test Point, square 4.0mm side length
+touch point SMD pad rectangle square
+0
+1
+1
+touch
+Touch_Pad_10x10mm_round
 SMD rectangular pad as test Point, square 4.0mm side length
 touch point SMD pad rectangle square
 0
