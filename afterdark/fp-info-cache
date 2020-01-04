@@ -1,4 +1,4 @@
-17861405648477489
+17866140129517489
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76076,6 +76076,20 @@ WSON-10-1EP
 15
 11
 afterdark
+BatteryHolder_Keystone_3034_1x20mm
+Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
+Keystone type 3034 coin cell retainer
+0
+3
+2
+afterdark
+OSHW-Logo2_9.8x8mm_Copper
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+afterdark
 OSH_gear_mask_silk_text
 Imported from OSHPARK.svg
 svg2mod
@@ -76091,6 +76105,13 @@ svg2mod
 0
 afterdark
 OSH_small_silk
+Imported from OSHPARK.svg
+svg2mod
+0
+0
+0
+afterdark
+OSH_small_silk_no_logo
 Imported from OSHPARK.svg
 svg2mod
 0
