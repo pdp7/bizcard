@@ -1,0 +1,12 @@
+(module coin-slot-gnd (layer F.Cu) (tedit 5E1216FF)
+  (descr "SMD rectangular pad as test Point, square 4.0mm side length")
+  (tags "test point SMD pad rectangle square")
+  (attr virtual)
+  (fp_text reference REF** (at 0 -2.898) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value TestPoint_Pad_10.0x10.0mm (at 0 3.1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd roundrect (at 0 0) (size 35 5) (layers F.Cu F.Mask) (roundrect_rratio 0.25))
+)

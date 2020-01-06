@@ -19,7 +19,7 @@ U 1 1 5DF4085C
 P 4650 2300
 F 0 "R1" V 4443 2300 50  0000 C CNN
 F 1 "R" V 4534 2300 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 4580 2300 50  0001 C CNN
+F 2 "afterdark:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder-no-silk" V 4580 2300 50  0001 C CNN
 F 3 "~" H 4650 2300 50  0001 C CNN
 	1    4650 2300
 	0    1    1    0   
@@ -30,7 +30,7 @@ U 1 1 5DF40B3F
 P 4650 2800
 F 0 "D1" H 4643 3016 50  0000 C CNN
 F 1 "LED" H 4643 2925 50  0000 C CNN
-F 2 "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4650 2800 50  0001 C CNN
+F 2 "afterdark:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder-no-silk" H 4650 2800 50  0001 C CNN
 F 3 "~" H 4650 2800 50  0001 C CNN
 	1    4650 2800
 	1    0    0    -1  
@@ -72,8 +72,8 @@ L Connector:Conn_01x01_Female J1
 U 1 1 5DF48217
 P 3400 2300
 F 0 "J1" V 3246 2348 50  0000 L CNN
-F 1 "Conn_01x01_Female" V 3337 2348 50  0000 L CNN
-F 2 "touch:TestPoint_Pad_4.0x4.0mm" H 3400 2300 50  0001 C CNN
+F 1 "Conn_01x01_Female" V 3337 2348 50  0001 L CNN
+F 2 "afterdark:coin-slot-pwr" H 3400 2300 50  0001 C CNN
 F 3 "~" H 3400 2300 50  0001 C CNN
 	1    3400 2300
 	0    1    1    0   
@@ -84,20 +84,20 @@ L Connector:Conn_01x01_Female J2
 U 1 1 5DF4886B
 P 3400 2600
 F 0 "J2" V 3338 2512 50  0000 R CNN
-F 1 "Conn_01x01_Female" V 3247 2512 50  0000 R CNN
-F 2 "touch:TestPoint_Pad_4.0x4.0mm" H 3400 2600 50  0001 C CNN
+F 1 "Conn_01x01_Female" V 3247 2512 50  0001 R CNN
+F 2 "afterdark:coin-slot-gnd" H 3400 2600 50  0001 C CNN
 F 3 "~" H 3400 2600 50  0001 C CNN
 	1    3400 2600
 	0    -1   -1   0   
 $EndComp
 Connection ~ 3400 2800
 $Comp
-L Connector:Conn_01x01_Female J?
+L Connector:Conn_01x01_Female J3
 U 1 1 5E12026F
 P 3200 2800
-F 0 "J?" V 3138 2712 50  0000 R CNN
-F 1 "Conn_01x01_Female" V 3047 2712 50  0000 R CNN
-F 2 "touch:TestPoint_Pad_4.0x4.0mm" H 3200 2800 50  0001 C CNN
+F 0 "J3" V 3138 2712 50  0000 R CNN
+F 1 "Conn_01x01_Female" V 3047 2712 50  0001 R CNN
+F 2 "afterdark:coin-slot-gnd" H 3200 2800 50  0001 C CNN
 F 3 "~" H 3200 2800 50  0001 C CNN
 	1    3200 2800
 	-1   0    0    1   

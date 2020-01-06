@@ -91,4 +91,15 @@ F 3 "~" H 3400 2600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Connection ~ 3400 2800
+$Comp
+L Connector:Conn_01x01_Female J3
+U 1 1 5E12026F
+P 3200 2800
+F 0 "J3" V 3138 2712 50  0000 R CNN
+F 1 "Conn_01x01_Female" V 3047 2712 50  0000 R CNN
+F 2 "touch:TestPoint_Pad_4.0x4.0mm" H 3200 2800 50  0001 C CNN
+F 3 "~" H 3200 2800 50  0001 C CNN
+	1    3200 2800
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
