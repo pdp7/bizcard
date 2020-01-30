@@ -14,17 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Device:R R1
-U 1 1 5DF4085C
-P 4650 2300
-F 0 "R1" V 4443 2300 50  0000 C CNN
-F 1 "R" V 4534 2300 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 4580 2300 50  0001 C CNN
-F 3 "~" H 4650 2300 50  0001 C CNN
-	1    4650 2300
-	0    1    1    0   
-$EndComp
-$Comp
 L Device:LED D1
 U 1 1 5DF40B3F
 P 4650 2800
@@ -102,4 +91,6 @@ F 3 "~" H 3200 2800 50  0001 C CNN
 	1    3200 2800
 	-1   0    0    1   
 $EndComp
+Wire Wire Line
+	4500 2300 4800 2300
 $EndSCHEMATC

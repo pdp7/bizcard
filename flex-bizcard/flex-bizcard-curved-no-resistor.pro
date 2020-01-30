@@ -1,6 +1,6 @@
-update=Thu 30 Jan 2020 10:56:14 PM CET
+update=Thu 30 Jan 2020 11:07:39 PM CET
 version=1
-last_client=kicad
+last_client=pcbnew
 [general]
 version=1
 RootSch=
@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=flex-slot-battery.net
+LastNetListRead=flex-led-tester.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -236,13 +236,3 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
